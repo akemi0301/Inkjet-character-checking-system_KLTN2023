@@ -1,1 +1,1 @@
-## chứa các hàm sử lý của framework
+## chứa các hàm xử lý của framework
